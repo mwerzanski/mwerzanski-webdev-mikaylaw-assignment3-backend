@@ -1,5 +1,5 @@
 import React from 'react'
-import Axios from 'axios';
+import Axios from './node_modules/axios';
 
 export default class URLShortenerComponent extends React.Component {
     constructor() {

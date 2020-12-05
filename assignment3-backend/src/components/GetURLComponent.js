@@ -1,5 +1,5 @@
 import React from 'react'
-import Axios from './node_modules/axios';
+import Axios from 'axios';
 
 export default class GetURLComponent extends React.Component {
     
